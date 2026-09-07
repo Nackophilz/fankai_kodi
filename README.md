@@ -12,6 +12,7 @@ _Les métadonnées ultimes pour la communauté Kaï, directement dans Kodi._
 [**🌐 API Fankai**](https://metadata.fankai.fr) · [**🧩 Version Jellyfin/Emby**](https://github.com/Nackophilz/fankai_jellyfin) · [**🐛 Signaler un bug**](https://github.com/Nackophilz/fankai_kodi/issues) · [**💬 Discord**](https://discord.gg/fankai)
  
 </div>
+
 ## 📖 À propos
  
 **Fankai pour Kodi** est un fournisseur d'informations (« scraper ») de séries TV alimenté par l'API communautaire [metadata.fankai.fr](https://metadata.fankai.fr). C'est l'équivalent Kodi du [plugin Jellyfin/Emby](https://github.com/Nackophilz/fankai_jellyfin) : vos Kai sont identifiés, remplis et illustrés automatiquement, sans saisie manuelle.
